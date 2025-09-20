@@ -25,20 +25,14 @@
 
 <div>
 <h3>🖥️ Lenguajes</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql" height="60" />
+<img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=js" height="50" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=java" height="50" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=php" height="50" style="margin: 5px;" />
+<img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 5px;" />
 </div>
 
-<div>
-<h3>🔧 Herramientas</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="60" />
-</div>
-
-<div>
-<h3>🌐 Otros</h3>
-<img src="https://img.shields.io/badge/Idiomas-Español%20%7C%20Árabe-blue?style=for-the-badge&logo=google-translate" />
-</div>
-
-</div>
 
 ---
 
