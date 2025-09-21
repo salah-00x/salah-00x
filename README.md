@@ -35,10 +35,10 @@
 
 <div>
 <h3>🔧 Herramientas</h3>
-<img src="https://skillicons.dev/icons?i=git" height="50" style="margin: 6px;" />
-<img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 6px;" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin: 6px;" />
-<img src="https://skillicons.dev/icons?i=idea" height="50" style="margin: 6px;" />
+<img src="https://skillicons.dev/icons?i=git" height="50" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin: 8px;" />
+<img src="https://skillicons.dev/icons?i=idea" height="50" style="margin: 8px;" />
 </div>
 
 <div>
@@ -73,10 +73,11 @@
 ## 📫 Contacto  
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="mailto:salahdinnasser13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=salahdinnasser13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/salahdin-nasser-elaslani-0706a9385/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
